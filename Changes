@@ -1,0 +1,47 @@
+Revision history for Browser Add-On IMDb + Clipland
+
+2.0	upcoming
+	- complete rewrite
+	- Scriptify used for bundling
+	- adapt to imdb's updated layout
+
+1.3.0	unreleased
+
+1.2.0	unreleased
+	- in addition to name pages, title pages now also receive attention by
+	  the Add-On
+	- Clipland title ratings get included in imdb-title-pages
+	- added sections on imdb are now blue, in line with the Clipland
+	  corporate design
+	- title and name pages now get a link to the related Clipland page in
+	  head/title sections
+	- ../miscsites for titles and names get a link to Clipland added to the
+	  list
+	- "on Clipland" is now "at Clipland"
+	- modified Clipland copyright tag
+	- improved active/inactive logic to differentiate which imdb-urls should
+	  trigger the Add-On
+	- more modular code
+	- minor tweaks
+
+1.1.1	2010-02-19
+	- bugfix release: "on Clipland" links were relative instead of absolute,
+	  thus leading to invalid URLs
+
+1.1.0	2010-01-19
+	- Added compatibility for Firefox 3.5.x
+	- Better handling of entries which are in Clipland and in Imdb: entries
+	  where Clipland knows the corresponding imdb Id will be omitted in the
+	  "Clipland Data" section (server-side changes and updated api call)
+	- Films that are on IMDb and also on Clipland get a link "(on Clipland)"
+	  in the IMDb results, for convenience
+	- calls to Clipland API under the version=1.1 namespace
+	- Clipland data is now only added on name landing pages and
+	  name/maindetails pages, not on ../bio etc (was a bug)
+	- Name "IMDb + Clipland" now displays properly in Firefox's Add-On
+	  manager, with logo icon
+	- confirmed working with imdb redesign
+	- minor tweaks
+
+1.0.0	2009-06-19
+	- initial release
