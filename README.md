@@ -1,7 +1,7 @@
 # [IMDb + Clipland](https://github.com/clipland/addon-clipland-imdb)
 
 [![Install](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/github-install-button-firefox.jpg)](https://addons.mozilla.org/en-US/firefox/addon/imdb-clipland/)
-[![Install](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/github-install-button-greasemonkey.jpg)](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/clipland-imdb.user.js)
+[![Install](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/github-install-button-greasemonkey.jpg)](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/imdb-clipland.user.js)
 [![Like or follow Clipland on Fb](http://www.clipland.com/res/button-facebook-like.png)](https://www.facebook.com/pages/Cliplandcom/91377069846)
 
 A Firefox / Greasemonkey Add-On that enhances IMDb with data from Clipland.
