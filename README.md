@@ -14,8 +14,8 @@ short films. Music videos and TV commercials mostly are not covered at imdb at
 all. This, in turn, is where Clipland's expertise lies. So it's a no-brainer to combine
 the two sites:
 
-- [This script on Add-On for Firefox](https://addons.mozilla.org/en-US/firefox/addon/imdb-clipland/)
-- [Script Homepage](https://www.clipland.com/imdbclipland)
+- [This script on Add-Ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/imdb-clipland/)
+- [Script Homepage](https://www.clipland.com/imdb-clipland)
 
 ## SCREENSHOTS
 

@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name           IMDb + Clipland
-// @namespace      http://www.clipland.com/imdbplus
+// @namespace      http://www.clipland.com/imdb-clipland
 // @description    IMDb + Clipland enhances IMDb with data from Clipland
 // @version        2.0
 // @author         Clipland
-// @homepage       http://www.clipland.com/imdbplus
+// @homepage       http://www.clipland.com/imdb-clipland
 // @copyright      2009-2014, Clipland GmbH (http://www.clipland.com/)
 // @icon           data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAABGwAAARsBjfdO5QAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAPdEVYdFRpdGxlAElNRGIgTG9nb3OZnAIAAAPASURBVFiF7ZdNaFxVFMd/580MaSZJpzUdixaqKVXaummaNAuVlmJABcWCzcRWqIu66UoQodOgDESKKajgwuzaElyoU1oLLiy4KFTxgyZLjRQJ1ARKbT5mJl+TmXvvcfHmzbzUlNqEpC564MF977xz/v/7f+ed856oKu2p9NPAh0AS8Fhdc8AM0DeY7ftJ2rpO7AL6gbcGs303VhkcgPZUuhk4A/R7+DtfM3CAwWzfBPAm0OMBibUED5GYBSY9wKw1eMgKq11w97SHBKJbk/Pbx4cPKAqqigL+2j+oXPPX+H5RUL7Y0nr16IoJNNSVN8/OGNQtBgnAXUAEBQfOKYrQ0BTpunHt+UvjXvHbtrbB8rIJRDyNNCaSqCrOzuPsfAXQQyIbQBVbnsa5clWZQt4wnSuvq2+MXtho4hmg987Ee7rT+0Sl18/kTl3Lnv5+SQLgceDQn4yOjhKPx0kk1nOk61neTs2x+4UrFItFLp9/nccS11GFXMEQjYAngjUOwVuyjsTpJhH2V07P3E0BD6BQKJDL5di18ymGh//gg96zjN1+glwuRz6fZ3hkI2cvtTByczvFoqO4oKgDZxVj3P1p/m8FanbkUCtXf/iZUqnE+JRWr2dOfc3o6BjbtrXw3bmtOFfGGkWtP1lWREBrOCiKiABQDpVVz3spjr/zKZOTUyA7sXYKdYpV0Mr9Hd0nO63yfhAjIptqeaWnLXXyWAj3s6HsR9/4BKgx0NB2XGgdi/ogqop1gjX+qyKAVjRwqo8K1Wd+p+0QdEdopxeqCrBIgdA6JE1YJWf8Zy8iPnQ4aBm2qIKNibGwsOAzi9QyW+uvPc/DWIs1fj9wDkxllA09U/9VU0N9fXCIcjiIF5FjYd82GekPfFFUqkDvpj8PAmhO1AgMfPkjAM3NzZTm8qgq4kmFhH+fZjIOKAYxbV0nSkIlt7rylXOZqi9sUVBee2UfExM5EIivi9Gx+xHi/M4bXS9TNoa9rS1seTzJq51JrPkNVYjFBGfB2f+o9V0s6lT16IvXa31fQXWM4iwcPxic36LjSVD9G2uVpg1RrPF7gKrmV0hASo3rI/HFw0h84Erv1WAIqV/3pqzMzdhZcJ3PdQ/9slTiofOnLwKylG8RgamZ2M3ClLlVBQmGTjCYKqWgqtXXVBWc6MX9h5cGvy8Fbk/X/7X34K8vrTTRcu2Bf5A8JPC/IBB5gPiNHjDXnkpvXmvk9lS6Dkh6QAYYaE+lk2sI3gAMAB9L5fd8D/6HZR2wwu5+T/PwO+Qng9m+y/8AUe3gleGP9ZAAAAAASUVORK5CYII=
 // @license        GNU GPL License
