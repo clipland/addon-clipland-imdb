@@ -1,7 +1,7 @@
 # [IMDb + Clipland](https://github.com/clipland/addon-clipland-imdb)
 
 [![Install](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/github-install-button-firefox.jpg)](https://addons.mozilla.org/en-US/firefox/addon/imdb-clipland/)
-[![Install](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/github-install-button-greasemonkey.jpg)](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/imdb-plus-clipland.user.js)
+[![Install](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/github-install-button-greasemonkey.jpg)](https://raw.githubusercontent.com/clipland/addon-clipland-imdb/master/clipland-imdb.user.js)
 [![Like or follow Clipland on Fb](http://www.clipland.com/res/button-facebook-like.png)](https://www.facebook.com/pages/Cliplandcom/91377069846)
 
 A Firefox / Greasemonkey Add-On that enhances IMDb with data from Clipland.
@@ -14,9 +14,8 @@ short films. Music videos and TV commercials mostly are not covered at imdb at
 all. This, in turn, is where Clipland's expertise lies. So it's a no-brainer to combine
 the two sites:
 
-- [This script on mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/imdb-clipland/)
-- [This script on github](https://github.com/clipland/addon-clipland-imdb)
-- [Homepage](https://www.clipland.com/imdbclipland)
+- [This script on Add-On for Firefox](https://addons.mozilla.org/en-US/firefox/addon/imdb-clipland/)
+- [Script Homepage](https://www.clipland.com/imdbclipland)
 
 ## SCREENSHOTS
 
